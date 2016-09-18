@@ -1,13 +1,12 @@
+notes.txt
+certs/
+
 bundle.js
 bundle.css
 nginx.site
 
-npm-debug.log
-notes.txt
-
-certs/
 node_modules/
-.idea/
+npm-debug.log
 
 ~*
 *.swp

@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "lol, aggregate",
   "scripts": {
-    "build": "NODE_ENV=production webpack --config webpack.production.config.js -p",
+    "bundle": "NODE_ENV=production webpack --config webpack.production.config.js -p",
     "dev": "NODE_ENV=dev webpack-dev-server --hot --progress --colors"
   },
   "author": "rhodey orbits",
